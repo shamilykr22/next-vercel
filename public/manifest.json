@@ -1,0 +1,23 @@
+{
+  "id": "/",
+  "name": "Next.js Dashboard",
+  "short_name": "Dashboard",
+  "description": "A Next.js PWA Dashboard Application",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "form_factor": "wide",
+  "icons": [
+    {
+      "src": "/hero-mobile.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/hero-desktop.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
